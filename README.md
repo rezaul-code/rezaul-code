@@ -3,7 +3,7 @@
 
 <!-- Banner -->
 <div align="center">
-  <img src="https://github.com/rezaul-code/rezaul-code/raw/main/assets/banner.png" alt="Banner" width="900px" height="180px"/>
+  <img src="https://github.com/rezaul-code/rezaul-code/raw/main/assets/banner.png" alt="Banner" width="900px" height="280px"/>
 </div>
 
 
