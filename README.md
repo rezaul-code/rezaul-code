@@ -71,16 +71,6 @@ and always eager to take on **new challenges** that push my boundaries 🚀
 
 ---
 
-<!-- Projects -->
-<div align="center">
-
-## 🚀 Projects
-🔹 [**E-Commerce Web Application**](https://github.com/rezaul-code/ecommerce-app) – Role-based (Admin/Seller/Customer) platform built using **Java, JSP, Servlets, MySQL**  
-🔹 [**Library Management System**](https://github.com/rezaul-code/library-management-system) – A complete library management tool built with **Java, JDBC, MySQL**  
-
-</div>
-
----
 
 <!-- GitHub Stats -->
 <div align="center">
@@ -94,15 +84,7 @@ and always eager to take on **new challenges** that push my boundaries 🚀
 </div>
 
 
----
 
-<!-- Contribution Graph -->
-<div align="center">
-
-## 📈 GitHub Contribution Graph
-![Snake animation](https://github.com/rezaul-code/rezaul-code/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
@@ -115,14 +97,6 @@ and always eager to take on **new challenges** that push my boundaries 🚀
 </div>
 
 ---
-
-<!-- Visitor Count -->
-<div align="center">
-
-### 👀 Visitor Count
-<img src="https://visitcount.itsvg.in/api?id=rezaul-code&icon=7&color=0"/>
-
-</div>
 
 <!-- Bottom Divider -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
