@@ -3,7 +3,8 @@
 
 <!-- Banner -->
 <div align="center">
-  <img src="https://via.placeholder.com/1200x250.png?text=Rezaul+Khan+-+Full+Stack+Developer" alt="Banner" width="100%"/>
+ <img src="https://github.com/rezaul-code/rezaul-code/raw/main/assets/banner.png" alt="Banner" width="100%"/>
+
 </div>
 
 ---
