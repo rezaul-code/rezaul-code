@@ -31,7 +31,7 @@ and always eager to take on **new challenges** that push my boundaries 🚀
 
 ## 📚 Currently Learning
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![SAP Hybris](https://img.shields.io/badge/SAP_Hybris-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 </div>
