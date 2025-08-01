@@ -1,21 +1,59 @@
-# 💫 About Me:
-A Full-Stack Developer with a strong foundation in **Java, DSA, and Web Development**.  
-Experienced in building **scalable applications** using **Servlet, JSP, MySQL, and ReactJS**, including projects like a **Library Management System** and a **Role-based E-Commerce Platform (Admin/Seller/Customer)**.  
-Comfortable working across **frontend, backend, and databases**, with hands-on knowledge of **Git, Docker, and CI/CD pipelines**.  
+<!-- Top Divider -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
 
-Passionate about **crafting efficient, user-focused solutions** and always eager to take on **new challenges** that push my boundaries. 🚀
+<!-- Banner -->
+<div align="center">
+  <img src="https://via.placeholder.com/1200x250.png?text=Rezaul+Khan+-+Full+Stack+Developer" alt="Banner" width="100%"/>
+</div>
 
+---
 
+<!-- About Me -->
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rezaul2609) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//rezaul-khan-0495bb31a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rezaul2609) 
+# 💫 About Me
+A **Full-Stack Developer** with a strong foundation in **Java, DSA, and Web Development**.  
+Experienced in building **scalable applications** using **Servlet, JSP, MySQL, and ReactJS**,  
+including projects like a **Library Management System** and a **Role-based E-Commerce Platform (Admin/Seller/Customer)**.  
 
+Comfortable working across **frontend, backend, and databases**,  
+with hands-on knowledge of **Git, Docker, and CI/CD pipelines**.  
 
-<div id="hey" align="center">
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> 
-  <h1>
-Languages & Tools
-  </h1>
+Passionate about **crafting efficient, user-focused solutions**  
+and always eager to take on **new challenges** that push my boundaries 🚀
+
+</div>
+
+---
+
+<!-- Currently Learning -->
+<div align="center">
+
+## 📚 Currently Learning
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![SAP Hybris](https://img.shields.io/badge/SAP_Hybris-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+</div>
+
+---
+
+<!-- Socials -->
+<div align="center">
+
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rezaul2609)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rezaul-khan-0495bb31a)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Rezaul2609)
+
+</div>
+
+---
+
+<!-- Languages & Tools -->
+<div align="center">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px">
+<h1>Languages & Tools</h1>
 
 | Category            | Badges |
 |---------------------|--------|
@@ -29,20 +67,70 @@ Languages & Tools
 
 </div>
 
+---
 
+<!-- Projects -->
+<div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rezaul-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rezaul-code&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaul-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 Projects
+🔹 [**E-Commerce Web Application**](https://github.com/rezaul-code/ecommerce-app) – Role-based (Admin/Seller/Customer) platform built using **Java, JSP, Servlets, MySQL**  
+🔹 [**Library Management System**](https://github.com/rezaul-code/library-management-system) – A complete library management tool built with **Java, JDBC, MySQL**  
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rezaul-code&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rezaul-code&icon=7&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- GitHub Stats -->
+<div align="center">
+
+# 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=rezaul-code&theme=dark&hide_border=false&show_icons=true&count_private=false" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rezaul-code&theme=dark&hide_border=false" height="180"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaul-code&theme=dark&hide_border=false&layout=compact"/>
+
+</div>
+
+---
+
+<!-- Pinned Repos -->
+<div align="center">
+
+## 📌 Pinned Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rezaul-code&repo=ecommerce-app&theme=dark)](https://github.com/rezaul-code/ecommerce-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rezaul-code&repo=library-management-system&theme=dark)](https://github.com/rezaul-code/library-management-system)
+
+</div>
+
+---
+
+<!-- Contribution Graph -->
+<div align="center">
+
+## 📈 GitHub Contribution Graph
+![Snake animation](https://github.com/rezaul-code/rezaul-code/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<!-- Quote -->
+<div align="center">
+
+### ✍️ Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+</div>
+
+---
+
+<!-- Visitor Count -->
+<div align="center">
+
+### 👀 Visitor Count
+<img src="https://visitcount.itsvg.in/api?id=rezaul-code&icon=7&color=0"/>
+
+</div>
+
+<!-- Bottom Divider -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
