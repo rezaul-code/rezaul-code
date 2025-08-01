@@ -97,8 +97,8 @@ and always eager to take on **new challenges** that push my boundaries 🚀
 <div align="center">
 
 ## 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rezaul-code&repo=ecommerce-app&theme=dark)](https://github.com/rezaul-code/ecommerce-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rezaul-code&repo=library-management-system&theme=dark)](https://github.com/rezaul-code/library-management-system)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rezaul-code&repo=ecommerce-app&theme=dark)](https://github.com/rezaul-code/EcomStore_App)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rezaul-code&repo=library-management-system&theme=dark)](https://github.com/rezaul-code/Library_Management_System)
 
 </div>
 
