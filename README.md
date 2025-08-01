@@ -1,5 +1,10 @@
 # 💫 About Me:
-A passionate Frontend Developer with experience in building user-friendly and responsive web applications. I enjoy turning ideas into functional and visually appealing digital experiences.
+A Full-Stack Developer with a strong foundation in **Java, DSA, and Web Development**.  
+Experienced in building **scalable applications** using **Servlet, JSP, MySQL, and ReactJS**, including projects like a **Library Management System** and a **Role-based E-Commerce Platform (Admin/Seller/Customer)**.  
+Comfortable working across **frontend, backend, and databases**, with hands-on knowledge of **Git, Docker, and CI/CD pipelines**.  
+
+Passionate about **crafting efficient, user-focused solutions** and always eager to take on **new challenges** that push my boundaries. 🚀
+
 
 
 ## 🌐 Socials:
