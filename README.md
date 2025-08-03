@@ -29,7 +29,7 @@ and always eager to take on **new challenges** that push my boundaries 🚀
 <!-- Socials -->
 <div align="center">
 
-## 🌐 Socials
+## 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rezaul2609)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rezaul-khan-0495bb31a)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Rezaul2609)
