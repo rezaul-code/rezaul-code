@@ -26,7 +26,7 @@ and always eager to take on **new challenges** that push my boundaries 🚀
 </div>
 
 ---
-<!-- Socials -->
+<!-- Socials site links-->
 <div align="center">
 
 ## 🌐 Connect With Me
