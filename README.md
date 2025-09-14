@@ -78,10 +78,16 @@ and always eager to take on **new challenges** that push my boundaries 🚀
 <div align="center">
 
 # 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=rezaul-code&theme=dark&hide_border=false&show_icons=true&count_private=false" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rezaul-code&theme=dark&hide_border=false" height="180"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaul-code&theme=dark&hide_border=false&layout=compact"/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rezaul-code&theme=dark&hide_border=false&show_icons=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezaul-code&theme=dark&hide_border=false" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaul-code&theme=dark&hide_border=false&layout=compact" height="180" />
+</p>
+
 
 </div>
 
