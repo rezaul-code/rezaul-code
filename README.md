@@ -81,6 +81,8 @@ and always eager to take on **new challenges** that push my boundaries 🚀
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rezaul-code&theme=dark&hide_border=false&show_icons=true&count_private=true" height="180" />
+  </p>
+  <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezaul-code&theme=dark&hide_border=false" height="180" />
 </p>
 
