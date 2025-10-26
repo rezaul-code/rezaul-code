@@ -65,7 +65,6 @@ and always eager to take on **new challenges** that push my boundaries 🚀
 | **DevOps / Tools**  | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 | **Auth / Security** | ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![PenTest](https://img.shields.io/badge/Penetration_Testing-E34F26?style=for-the-badge&logo=hackthebox&logoColor=white) |
 | **Testing / Logging** | ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=JUnit&logoColor=white) ![Log4j](https://img.shields.io/badge/Logging-Log4j-8B0000?style=for-the-badge) |
-| **Reporting**       | ![Excel Export](https://img.shields.io/badge/Excel_Export-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![PDF Export](https://img.shields.io/badge/PDF_Export-F40F02?style=for-the-badge&logo=adobeacrobatreader&logoColor=white) |
 
 </div>
 
