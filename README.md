@@ -1,55 +1,13 @@
-<!-- Top Divider -->
+ <!-- Top Divider -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
-
-<!-- Banner -->
-<div align="center">
-  <img src="https://github.com/rezaul-code/rezaul-code/raw/main/assets/banner.png" alt="Banner" width="900px" height="280px"/>
-</div>
-
-
----
 
 <!-- About Me -->
 <div align="center">
-
-# 💫 About Me
-A **Full-Stack Developer** with a strong foundation in **Java, DSA, and Web Development**.  
-Experienced in building **scalable applications** using **Servlet, JSP, MySQL, and ReactJS**,  
-including projects like a **Library Management System** and a **Role-based E-Commerce Platform (Admin/Seller/Customer)**.  
-
-Comfortable working across **frontend, backend, and databases**,  
-with hands-on knowledge of **Git, Docker, and CI/CD pipelines**.  
-
-Passionate about **crafting efficient, user-focused solutions**  
-and always eager to take on **new challenges** that push my boundaries 🚀
+Results-Driven Software Engineer specializing in architecting, developing, and deploying scalable backend systems and full-stack applications using Java and modern web technologies. With hands-on experience across enterprise-grade projects, he has a proven track record of translating complex business requirements into secure, high-performance, and maintainable software solutions across web, desktop, and Android environments, adeptly managing the entire software development lifecycle from backend architecture and API design to fully functional, production-ready systems. His passion lies in building robust, cleanly architected backend services while continuously enhancing applications with scalable, secure, and performance-oriented solutions.
 
 </div>
 
 ---
-<!-- Socials site links-->
-<div align="center">
-
-## 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rezaul2609)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rezaul-khan-0495bb31a)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Rezaul2609)
-
-</div>
-
-
----
-
-
-<!-- Currently Learning -->
-<div align="center">
-
-## 📚 Currently Learning
-![SAP Hybris](https://img.shields.io/badge/SAP_Hybris-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-
-</div>
-
----
-
 
 <div align="center">
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px">
@@ -64,7 +22,7 @@ and always eager to take on **new challenges** that push my boundaries 🚀
 | **DevOps / Tools**  | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 | **Auth / Security** | ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![PenTest](https://img.shields.io/badge/Penetration_Testing-E34F26?style=for-the-badge&logo=hackthebox&logoColor=white) |
 | **Testing / Logging** | ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=JUnit&logoColor=white) ![Log4j](https://img.shields.io/badge/Logging-Log4j-8B0000?style=for-the-badge) |
-
+! **E-Commerce** | [SAP Hybris](https://img.shields.io/badge/SAP_Hybris-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 </div>
 
 
@@ -98,7 +56,6 @@ and always eager to take on **new challenges** that push my boundaries 🚀
 <!-- Quote -->
 <div align="center">
 
-### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
 </div>
