@@ -3,7 +3,7 @@
 
 <!-- About Me -->
 <div align="center">
-Results-Driven Software Engineer specializing in architecting, developing, and deploying scalable backend systems and full-stack applications using Java and modern web technologies. With hands-on experience across enterprise-grade projects, he has a proven track record of translating complex business requirements into secure, high-performance, and maintainable software solutions across web, desktop, and Android environments, adeptly managing the entire software development lifecycle from backend architecture and API design to fully functional, production-ready systems. His passion lies in building robust, cleanly architected backend services while continuously enhancing applications with scalable, secure, and performance-oriented solutions.
+Results-Driven Software Engineer specializing in architecting, developing, and deploying scalable backend systems and AI full-stack applications using Java and modern web technologies. With hands-on experience across enterprise-grade projects, he has a proven track record of translating complex business requirements into secure, high-performance, and maintainable software solutions across web, desktop, and Android environments, adeptly managing the entire software development lifecycle from backend architecture and API design to fully functional, production-ready systems. His passion lies in building robust, cleanly architected backend services while continuously enhancing applications with scalable, secure, and performance-oriented solutions.
 
 </div>
 
@@ -22,7 +22,7 @@ Results-Driven Software Engineer specializing in architecting, developing, and d
 | **DevOps / Tools**  | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 | **Auth / Security** | ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![PenTest](https://img.shields.io/badge/Penetration_Testing-E34F26?style=for-the-badge&logo=hackthebox&logoColor=white) |
 | **Testing / Logging** | ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=JUnit&logoColor=white) ![Log4j](https://img.shields.io/badge/Logging-Log4j-8B0000?style=for-the-badge) |
-! **E-Commerce** | [SAP Hybris](https://img.shields.io/badge/SAP_Hybris-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+| **E-Commerce** | ![SAP Hybris](https://img.shields.io/badge/SAP_Hybris-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 </div>
 
 
@@ -32,21 +32,19 @@ Results-Driven Software Engineer specializing in architecting, developing, and d
 <!-- GitHub Stats -->
 <div align="center">
 
-# 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rezaul-code&theme=dark&hide_border=false&show_icons=true&count_private=true" height="180" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezaul-code&theme=dark&hide_border=false" height="180" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaul-code&theme=dark&hide_border=false&layout=compact" height="180" />
-</p>
+  <p>
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=rezaul-code&theme=dark&hide_border=false" 
+      height="180" 
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaul-code&theme=dark&hide_border=false&layout=compact" 
+      height="200" 
+    />
+  </p>
 
 </div>
+
 
 
 
