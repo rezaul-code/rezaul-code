@@ -175,26 +175,6 @@ I enjoy building secure, maintainable, and production-ready applications with cl
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rezaul-code&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rezaul-code&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 Coding Profiles
 
 <div align="center">
@@ -210,26 +190,6 @@ I enjoy building secure, maintainable, and production-ready applications with cl
 <a href="mailto:yourmail@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-# 💡 Developer Philosophy
-
-<div align="center">
-
-### ✨ *"Code. Build. Scale. Repeat."*
-
-</div>
-
----
-
-# ⚡ Fun Fact
-
-<div align="center">
-
-🚀 I love transforming complex business requirements into scalable software solutions.
 
 </div>
 
