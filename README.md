@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Rezaul%20Khan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Backend+Developer;Java+%7C+Spring+Boot+%7C+ReactJS;AI+Full+Stack+Developer;Building+Scalable+Applications;Clean+Architecture+%7C+Secure+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Backend+Developer;Java+%7C+Spring+Boot+%7C+Microservices;AI+Full+Stack+Developer;Building+Scalable+Enterprise+Applications;Clean+Architecture+%7C+Secure+Systems+%7C+Zero-Defect+Delivery"/>
 
 <br/>
 
@@ -20,11 +20,11 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 👨‍💻 Software Engineer & AI Developer
+### 👨‍💻 Java Backend Engineer & Software Developer
 
-Results-driven Software Engineer specializing in architecting, developing, and deploying scalable backend systems and AI-powered full-stack applications using Java and modern web technologies.
+Results-driven Java Backend Engineer with 1+ year of experience designing and developing scalable enterprise applications, REST APIs, and microservices using Java, Spring Boot, Hibernate, JPA, MySQL, and PL/SQL.
 
-I enjoy building secure, maintainable, and production-ready applications with clean architecture, optimized performance, and modern UI/UX.
+Experienced in building secure, production-ready backend systems with JWT authentication, transaction management, CI/CD pipelines, and optimized database operations. Passionate about writing clean, maintainable code and delivering reliable software solutions aligned with business and client requirements.
 
 ---
 
@@ -32,8 +32,6 @@ I enjoy building secure, maintainable, and production-ready applications with cl
 
 - 🔥 Enterprise Backend Development
 - ⚡ Spring Boot REST APIs
-- 🎨 React + TypeScript Frontend
-- 🤖 AI/ML Applications
 - 🔐 Security & Penetration Testing
 - 📱 Full Stack Web Applications
 - ☁️ Scalable System Design
@@ -52,7 +50,7 @@ I enjoy building secure, maintainable, and production-ready applications with cl
 
 ---
 
-# 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
@@ -68,19 +66,27 @@ I enjoy building secure, maintainable, and production-ready applications with cl
 </td>
 
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=react" width="55"/><br><b>ReactJS</b>
+<img src="https://skillicons.dev/icons?i=hibernate" width="55"/><br><b>Hibernate</b>
 </td>
 
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=ts" width="55"/><br><b>TypeScript</b>
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br><b>MySQL</b>
 </td>
 
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br><b>Tailwind</b>
+<img src="https://skillicons.dev/icons?i=postgres" width="55"/><br><b>PostgreSQL</b>
 </td>
 </tr>
 
 <tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=sqlite" width="55"/><br><b>SQLite</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br><b>ReactJS</b>
+</td>
+
 <td align="center">
 <img src="https://skillicons.dev/icons?i=js" width="55"/><br><b>JavaScript</b>
 </td>
@@ -90,19 +96,15 @@ I enjoy building secure, maintainable, and production-ready applications with cl
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br><b>MySQL</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=sqlite" width="55"/><br><b>SQLite</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="55"/><br><b>Docker</b>
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br><b>HTML</b>
 </td>
 </tr>
 
 <tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br><b>CSS</b>
+</td>
+
 <td align="center">
 <img src="https://skillicons.dev/icons?i=git" width="55"/><br><b>Git</b>
 </td>
@@ -112,7 +114,25 @@ I enjoy building secure, maintainable, and production-ready applications with cl
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=idea" width="55"/><br><b>IntelliJ</b>
+<img src="https://skillicons.dev/icons?i=maven" width="55"/><br><b>Maven</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" width="55"/><br><b>Postman</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=idea" width="55"/><br><b>IntelliJ IDEA</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=eclipse" width="55"/><br><b>Eclipse</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=androidstudio" width="55"/><br><b>Android Studio</b>
 </td>
 
 <td align="center">
@@ -120,7 +140,7 @@ I enjoy building secure, maintainable, and production-ready applications with cl
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=postman" width="55"/><br><b>Postman</b>
+<img src="https://skillicons.dev/icons?i=aws" width="55"/><br><b>AWS</b>
 </td>
 </tr>
 
