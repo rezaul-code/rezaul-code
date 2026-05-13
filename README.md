@@ -185,11 +185,11 @@ Experienced in building secure, production-ready backend systems with JWT authen
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rezaul-code&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rezaul-code&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rezaul-code&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaul-code&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaul-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
