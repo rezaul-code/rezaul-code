@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Rezaul%20Khan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Backend+Developer;Java+%7C+Spring+Boot+%7C+Microservices;AI+Full+Stack+Developer;Building+Scalable+Enterprise+Applications;Clean+Architecture+%7C+Secure+Systems+%7C+Zero-Defect+Delivery"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Backend+Developer;Java+%7C+Spring+Boot+%7C+Microservices;Building+Scalable+Enterprise+Applications;Clean+Architecture+%7C+Secure+Systems+%7C+Zero-Defect+Delivery"/>
 
 <br/>
 
